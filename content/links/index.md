@@ -19,16 +19,16 @@ Here is a collection of other places you can find me and websites/articles I fin
 
 ## Mine
 
-- [Drive Talks](https://auto.insidemordecai.com), a car/motorsport blog I run and post on sometimes.
-- [Spotify](https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=52fb320ea0814cd2)
+- [Drive Talks](https://auto.insidemordecai.com) - a car/motorsport blog I run and post on sometimes.
 
 ## Other Websites
 
-- [47nil](https://47nil.com), about the author's random thoughts
+- [47nil](https://47nil.com) - about the author's random thoughts
 - [Manu Moreale](https://manuelmoreale.com/)
-- [Open Source Musings](https://opensourcemusings.com/), a website about free and open source software.
-- [Christopher Butler](https://www.chrbutler.com/), thoughts on design and culture evolution.
-- [Eric Murphy](https://ericmurphy.xyz), posts about the web, Linux, minimal sites and other topics.
+- [niqwithq](https://niqwithq.com) - "I love to tell stories and blogging is my way to reflect on topics that are very close to my heart."
+- [Open Source Musings](https://opensourcemusings.com/) - a website about free and open source software.
+- [Christopher Butler](https://www.chrbutler.com/) - thoughts on design and culture evolution.
+- [Eric Murphy](https://ericmurphy.xyz) - posts about the web, Linux, minimal sites and other topics.
 
 ## Text Playlist
 
