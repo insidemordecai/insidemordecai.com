@@ -4,7 +4,7 @@ slug: spotify-to-apple-music
 summary: Going over why I’m switching from Spotify to Apple Music 
 description: Going over why I’m switching from Spotify to Apple Music 
 date: 2025-03-27T13:00:00+03:00
-categories: [Opinion]
+categories: [Opinion, Updates]
 tags: [Spotify, Apple Music]
 draft: true
 ---

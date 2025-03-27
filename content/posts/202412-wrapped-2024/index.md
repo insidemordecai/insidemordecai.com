@@ -4,7 +4,7 @@ slug: wrapped-2024
 summary: Quick overview of my 2024 music habits.
 description: Quick overview of my 2024 music habits.
 date: 2024-12-11T12:58:12+03:00
-categories: [Music]
+categories: [Updates]
 tags: [Spotify]
 draft: false
 ---
