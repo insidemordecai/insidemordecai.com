@@ -1,8 +1,8 @@
 ---
 title: 'Wishlist to Reality'
 slug: wishlist-to-reality
-summary: Just buy that product in your wishlist - that's what I did
-description: Just buy that product in your wishlist - that's what I did
+summary: Just buy that product in your wishlist - that is what I did
+description: Just buy that product in your wishlist - that is what I did
 date: 2023-12-24T17:39:54+03:00
 categories: [Updates, Opinion]
 tags: [Amazon, Kindle]
