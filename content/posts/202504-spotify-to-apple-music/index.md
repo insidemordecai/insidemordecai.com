@@ -3,10 +3,10 @@ title: Bye Spotify, Hello Apple Music
 slug: spotify-to-apple-music
 summary: Going over why I’m switching from Spotify to Apple Music 
 description: Going over why I’m switching from Spotify to Apple Music 
-date: 2025-03-27T13:00:00+03:00
+date: 2025-04-02T14:00:00+03:00
 categories: [Opinion, Updates]
 tags: [Spotify, Apple Music]
-draft: true
+draft: false
 ---
 
 After 10 years on Sweden’s finest app, 4000+ liked songs, a bunch of playlists and 100+ albums, I made the switch to Cupertino just over a month ago. 
@@ -71,7 +71,7 @@ They missed less than 4% of my library which isn’t all that good but not too b
 
 Another amazing and highly recommended tool is [Playlisty](https://www.obdura.com/playlisty/). 
 It worked well for my short playlists, and I would have paid to use it, but I wanted something free.  
-It remains my top recommendation though (plus its one-time fee is not expensive). 
+It remains my top recommendation though (plus its paid option is [not a subscription]({{< ref "posts/202311-subscriptions/index.md" >}})). 
 
 I highly recommend you read the comparison article linked below by [Frida B](https://medium.com/@frida.beydon).
 
@@ -95,7 +95,7 @@ Right now, I simply don’t know.
 
 Spotify could fix some of the major grievances I had, finally ship HiFi at a decent price and I would switch back.
 Apple could significantly change prices and I would reconsider. 
-Either of them could introduce a revolutionary feature and I would follow them.
+Either of them could introduce a revolutionary feature and I would follow them or to throw a spanner in the works, I could do an A/B test and discover I can't tell the difference between lossy and lossless audio and my life has been a lie.
 
 There are quite a number of things both companies or their competitors could do to sway me one way or another but I’m satisfied with where I am for at least the next couple of months.
 
