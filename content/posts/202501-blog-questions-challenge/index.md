@@ -46,10 +46,10 @@ I started with Blogger when Google+ was my jam.
 For most of my time writing online, I’ve had two concurrent blogs on different platforms sometimes due to my curiosity while constantly changing them. 
 Inevitably I’ve used Tumblr, WordPress, Medium and everything in between. 
 
-## How do you write your posts? For example, in a local editing tool, or in a panel/dashboard that's part of your blog?
+## How do you write your posts?
 
 I currently start my writing on Apple Notes with all the necessary Markdown syntax be it on my phone or laptop. 
-I try to [write one sentence per line](https://sive.rs/1s) as advised by Derek.
+I try to [write one sentence per line](https://sive.rs/1s).
 Afterwards, it’s just a matter of quickly proofreading it, improving sentence structure if needed since I typically end up rambling on and finally correct grammar. 
 Of course mistakes end up on the published piece, I correct them sometimes, I never realise sometimes and sometimes I couldn’t care less. 
 It’s a part of blogging.
@@ -76,11 +76,11 @@ On most occasions though, I let it sit for a few hours before hitting the enter 
 ## What's your favourite post on your blog?
 
 Hmm, this is a tough question. 
-On some days it’s [I don’t like streaks](https://insidemordecai.com/on-gamification/), on another it’s [On Single-Use Devices](https://insidemordecai.com/on-single-use-devices/) and sometimes [The Joy of Libraries](https://insidemordecai.com/joy-of-libraries/). 
+On some days it’s [I don’t like streaks]({{< ref "posts/202407-on-gamification/index.md" >}}), on another it’s [On Single-Use Devices]({{< ref "posts/202408-on-single-use-devices/index.md" >}}) and sometimes [The Joy of Libraries]({{< ref "posts/202412-joy-of-libraries/index.md" >}}). 
 
 Either way, I find Manu’s answer of “Always the next one” as the best way to look at this question.
 
-## Any future plans for your blog? Maybe a redesign, a move to another platform, or adding a new feature?
+## Any future plans for your blog? 
 
 I find Hugo ticks all my boxes at the moment. 
 I’m also satisfied with [Blowfish](https://blowfish.page/) by [Nuno Coração](https://n9o.xyz/), it’s clean, well documented, constantly improving and I contribute to it at times. 
