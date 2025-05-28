@@ -1,8 +1,8 @@
 ---
 title: Email Is Not Dead
 slug: email-is-not-dead
-summary: MECA! Make Email Cool Again.
-description: MECA! Make Email Cool Again.
+summary: Make Email Cool Again.
+description: Make Email Cool Again.
 date: 2025-05-08T11:03:44+03:00
 categories: [Opinion]
 tags: [Email]
