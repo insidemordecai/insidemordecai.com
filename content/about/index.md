@@ -16,20 +16,21 @@ replyByEmail: false
 ---
 
 Hi 👋 I'm a STEM Instructor, a freelance Software Developer and a Computer Science graduate based in Kenya. 
-For my work experience, feel free to have a look at my [LinkedIn](https://linkedin.com/in/insidemordecai).
+I write code, teach tech, build things, and learn as I go.
+I've shared more about my work and background over on [LinkedIn](https://linkedin.com/in/insidemordecai) if you're into that kind of thing.
 
 {{< alert "comment" >}}
 Want to contact me? [Here's how.]({{< ref "contact/index.md" >}})
 {{< /alert >}}
 
-Outside of work, I obsessively watch motorsport - mainly Formula 1 (and its feeder series) and run a car/motorsport blog found [here](https://auto.insidemordecai.com/) when I remember.
+Outside of work, I obsessively watch motorsport -- mainly Formula 1 and its feeder series -- and run a [car/motorsport blog](https://auto.insidemordecai.com/) when I remember.
 
-I also read books quite a bit, you can have a look at my [Goodreads profile](https://www.goodreads.com/insidemordecai/).
+I also read a lot, you can check out what I've been flipping through on [Goodreads](https://www.goodreads.com/insidemordecai/).
 
-In my former years, I did some piano playing and singing - not that I don't sing now but just to the audience of my pet.
+In my former years, I did some piano playing and singing. 
+These days, the singing's still there but just to a much smaller (and furrier) audience.
 
 {{< alert "circle-info" >}}
-Check out the [colophon]({{< ref "colophon/index.md" >}}) to know about this site (credits, privacy, licenses etc.).
-
-If there is a problem with this site or an improvement you’d like to suggest, please [open an issue on GitHub](https://github.com/insidemordecai/insidemordecai.com/issues) or [reach out directly.]({{< ref "contact/index.md" >}})
+Curious about this site? Here's [the colophon]({{< ref "colophon/index.md" >}}).
+Noticed a bug or got a suggestion? [Open an issue](https://github.com/insidemordecai/insidemordecai.com/issues) or let me know.
 {{< /alert >}}
