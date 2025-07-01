@@ -33,7 +33,7 @@ highlightCurrentMenuArea = true
   layoutBackgroundBlur = false 
   # homepageImage = "img/background.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
+  showRecentItems = 7
   showMoreLink = true
   showMoreLinkDest = "/posts"
 
