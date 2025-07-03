@@ -53,16 +53,18 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-  name = "tags"
-  pageRef = "tags"
+  name = "colophon"
+  pageRef = "colophon"
   weight = 10
 
+
 [[footer]]
-  name = "categories"
-  pageRef = "categories"
+  name = "contact"
+  pageRef = "contact"
   weight = 15
 
 [[footer]]
   name = "support"
   pageRef = "support"
-  weight = 20
+  weight = 20 
+
