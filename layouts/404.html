@@ -1,8 +1,11 @@
 {{ define "main" }}
   <h1 class="mb-3 text-4xl font-extrabold">Uh-oh! My pet ate this page! 🐾</h1>
   <div class="prose mt-10 dark:prose-invert">
-    {{ $animation := resources.Get "img/404.gif" }}
-    <img class="rounded mb-4 w-64 h-auto" src="{{ $animation.RelPermalink }}" alt="Dog head tilt animation">
-    <p>But don't worry! Let's get you <a href="/">back to the home page.</a> </p>
+    {{ $animation := resources.Get "img/404.webm" }}
+    <video class="rounded mb-4 w-96 h-auto" autoplay muted loop playsinline>
+      <source src="{{ $animation.RelPermalink }}" type="video/webm" />
+      Your browser does not support the video tag.
+    </video>
+    <p>But don't worry! Let's get you back to <a href="/">the home page</a>.</p>
   </div>
 {{ end }}
