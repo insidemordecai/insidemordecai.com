@@ -31,6 +31,5 @@ In my former years, I did some piano playing and singing.
 These days, the singing's still there but just to a much smaller (and furrier) audience.
 
 {{< alert "circle-info" >}}
-Curious about this site? Here's [the colophon]({{< ref "colophon/index.md" >}}).
 Noticed a bug or got a suggestion? [Open an issue](https://github.com/insidemordecai/insidemordecai.com/issues) or let me know.
 {{< /alert >}}
