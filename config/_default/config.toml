@@ -20,7 +20,7 @@ enableEmoji = true
 [params.author]
   name = "Mordecai Kipng'etich"
   email = "mk@insidemordecai.com"
-  image = "img/profile.png"
+  image = "img/profile.webp"
   headline = "welcome to my corner of the internet about everything"
   bio = "not from Regular Show"
   links = [
