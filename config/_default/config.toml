@@ -24,7 +24,7 @@ enableEmoji = true
   headline = "welcome to my corner of the internet about everything"
   bio = "not from Regular Show"
   links = [
-    { email = "mailto:mk@insidemordecai.com"},
+    # { email = "mailto:mk@insidemordecai.com"},
     { spotify = "https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=29415d195d8d41f4"},
     { bluesky = "https://bsky.app/profile/insidemordecai.com" },
     { threads = "https://threads.net/insidemordecai"},
