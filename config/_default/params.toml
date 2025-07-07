@@ -12,6 +12,7 @@ disableImageZoom = true
 disableImageOptimization = false
 disableTextInHeader = true
 defaultBackgroundImage = "img/background.webp"
+defaultSocialImage = "img/social-image.webp"
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
 highlightCurrentMenuArea = true
