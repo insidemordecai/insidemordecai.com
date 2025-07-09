@@ -19,10 +19,6 @@ Hi 👋 I'm a STEM Instructor, a freelance Software Developer and a Computer Sci
 I write code, teach tech, build things, and learn as I go.
 I've shared more about my work and background over on [LinkedIn](https://linkedin.com/in/insidemordecai) if you're into that kind of thing.
 
-{{< alert "comment" >}}
-Want to contact me? [Here's how.]({{< ref "contact/index.md" >}})
-{{< /alert >}}
-
 Outside of work, I obsessively watch motorsport -- mainly Formula 1 and its feeder series -- and run a [car/motorsport blog](https://auto.insidemordecai.com/) when I remember.
 
 I also read a lot, you can check out what I've been flipping through on [Goodreads](https://www.goodreads.com/insidemordecai/).
