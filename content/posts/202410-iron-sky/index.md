@@ -35,16 +35,16 @@ We also get the refrain where he urges us to hold on despite the all-consuming e
 
 On top of that he brilliantly weaves in a powerful excerpt of Charlie Chaplin’s speech from The Great Dictator (1940). 
 
-> To those who can hear me, I say, do not despair. 
-> The misery that is now upon us is but the passing of greed, the bitterness of men who fear the way of human progress.
-> The hate of men will pass, and dictators die, and the power they took from the people will return to the people. 
-> And so long as men die, liberty will never perish.
-> Don't give yourselves to these unnatural men! 
-> Machine men with machine minds and machine hearts! 
-> You are not machines, you are not cattle, you are men!
-> You, the people, have the power to make this life free and beautiful, to make this life a wonderful adventure.
-> Let us use that power. 
-> Let us all unite!
+> To those who can hear me, I say, do not despair.  
+> The misery that is now upon us is but the passing of greed, the bitterness of men who fear the way of human progress. 
+> The hate of men will pass, and dictators die, and the power they took from the people will return to the people.  
+> And so long as men die, liberty will never perish. 
+> Don't give yourselves to these unnatural men!  
+> Machine men with machine minds and machine hearts!  
+> You are not machines, you are not cattle, you are men! 
+> You, the people, have the power to make this life free and beautiful, to make this life a wonderful adventure. 
+> Let us use that power.  
+> Let us all unite! 
 
 I haven’t watched the film but it is a satirical comedy by Charlie Chaplin.
 The situation was dire considering he was known for silent pictures.
