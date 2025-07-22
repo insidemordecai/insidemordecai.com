@@ -16,13 +16,6 @@ showPagination: false
 
 Here is a collection of other blogs, podcasts and posts that I frequently reference or find interesting and inspirational and would wholeheartedly recommend.
 
-## Slash Pages
-
-- [/colophon]({{< ref "colophon/index.md" >}}) - technical information about this site. 
-- [/contact]({{< ref "contact/index.md" >}}) - how to reach out to me.
-- [/subscribe]({{< ref "subscribe/index.md" >}}) - details on how to subscribe to this site.
-- [/support]({{< ref "support/index.md" >}}) - feeling generous?
-
 ## Blogroll
 
 - [47nil](https://47nil.com) - The owner describes it as a personal blog about common sense where he dumps everything on his mind.  
