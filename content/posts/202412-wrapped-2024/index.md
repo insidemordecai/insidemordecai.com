@@ -73,7 +73,7 @@ Anyway, what was on your Spotify Wrapped this year? And what would you definitiv
 
 ## Spotify Wrapped 2023 & 2022
 
-I won't retroactively post articles of my previous ones but here's a table with the data, playlist and social media post of the time. 
+I won't retroactively post articles of my previous ones but here's the data, playlists and social media posts of the time. 
 
 ### 2023
 
@@ -91,7 +91,7 @@ I won't retroactively post articles of my previous ones but here's a table with 
 
 ### 2022
 
-I'm still shocked by the total minutes listened but I guess that's what endless hours of uni project programming does to your stats.
+I'm still shocked by the total minutes listened but I guess that's what endless hours of programming uni projects does to your stats.
 
 | Top Songs                                                           | Top Artists             | 
 |---------------------------------------------------------------------|-------------------------|
