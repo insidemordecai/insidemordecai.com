@@ -20,7 +20,7 @@ Top on that was Pink Floyd’s _The Dark Side Of The Moon_ and Radiohead’s _In
 Saying I love them is a massive understatement because I absolutely devoured those two albums, I was definitely expecting them to make an appearance. 
 Lo and behold, they did not make it.
 
-![My Spotify Wrapped 2024 summary with my top artists in this order: Beyonce, Adele, Billie Eilish, Doja Cat and James Blake. My top songs are Without You by TEEKS, Indigo Night by Tamino, Wanna Be by GloRilla with Megan Thee Stallion, BIRDS OF A FEATHER by Billie Eilish and Love In The Dark by Adele.](img/wrapped-2024-summary.jpeg "My Spotify Wrapped 2024 Summary")
+![My Spotify Wrapped 2024 summary with my top artists in this order: Beyonce, Adele, Billie Eilish, Doja Cat and James Blake. My top songs are Without You by TEEKS, Indigo Night by Tamino, Wanna Be by GloRilla with Megan Thee Stallion, BIRDS OF A FEATHER by Billie Eilish and Love In The Dark by Adele.](img/wrapped-2024-summary.webp "My Spotify Wrapped 2024 Summary")
 
 I got home and my top two songs came as no surprise to me. 
 I have a soft spot for ballads that I can learn from while stretching my vocal pipes — no wonder Adele is my favourite artist.
@@ -75,28 +75,39 @@ Anyway, what was on your Spotify Wrapped this year? And what would you definitiv
 
 I won't retroactively post articles of my previous ones but here's a table with the data, playlist and social media post of the time. 
 
-| Year | Top Songs                                                           | Top Artists             | 
-|------|---------------------------------------------------------------------|-------------------------|
-| 2023 | 1. RAYE - Escapism. (with 070 Shake)                                | 1. James Blake          | 
-|      | 2. James Blake - Mile High (feat. Travis Scott)                     | 2. Metro Boomin         | 
-|      | 3. Metro Boomin - Creepin' (with The Weeknd & 21 Savage)            | 3. Doja Cat             | 
-|      | 4. Frank Ocean - Pink + White                                       | 4. Adele                | 
-|      | 5. Metro Boomin - Metro Spider (with Young Thug)                    | 5. Rihanna              | 
-|      | **Minutes Listened**: 56,787                                        |                         | 
-|      | **Top Genre**: Pop, Rap, Pop Dance, R&B, Alternative R&B            |                         | 
-|      | **Playlist:** [Top Songs of 2023](https://open.spotify.com/playlist/37i9dQZF1FabUsjBl7QvHA) |
-|      | **Social Media Posts:** [Tweet](https://x.com/insidemordecai/status/1729900380262178852), [Thread](https://www.threads.net/@insidemordecai/post/C0PKAqWiHe5), [Skeet](https://bsky.app/profile/insidemordecai.com/post/3kfdoo4cemf2j) 😂 |
-| 2022 | 1. James Blake - Life Is Not The Same                                | 1. Adele                | 
-|      | 2. FKA Twigs - Two Weeks                                            | 2. Kendrick Lamar       | 
-|      | 3. Lil Dicky - Molly (feat. Brendon Urie of Panic at the Disco)     | 3. Kanye West           | 
-|      | 4. Elaine - You're the One                                          | 4. Doja Cat             | 
-|      | 5. Doja Cat - Streets                                               | 5. James Blake          | 
-|      | **Minutes Listened**: 117,052 🤯                                     |                         | 
-|      | **Top Genre**: Pop, Rap, Alternative R&B, EDM, Afropop              |                         | 
-|      | **Playlist:** [Top Songs of 2022](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit) |
-|      | **Social Media Posts:** [Tweet](https://x.com/insidemordecai/status/1597981761652547584) |
+### 2023
 
-Sadly, I just have the playlists from before 2022 to 2018 and not any other data. 
+| Top Songs                                                           | Top Artists             | 
+|---------------------------------------------------------------------|-------------------------|
+| 1. RAYE - Escapism. (with 070 Shake)                                | 1. James Blake          | 
+| 2. James Blake - Mile High (feat. Travis Scott)                     | 2. Metro Boomin         | 
+| 3. Metro Boomin - Creepin' (with The Weeknd & 21 Savage)            | 3. Doja Cat             | 
+| 4. Frank Ocean - Pink + White                                       | 4. Adele                | 
+| 5. Metro Boomin - Metro Spider (with Young Thug)                    | 5. Rihanna              | 
+| **Minutes Listened**: 56,787                                        |                         | 
+| **Top Genre**: Pop, Rap, Pop Dance, R&B, Alternative R&B            |                         | 
+| **Playlist:** [Top Songs of 2023](https://open.spotify.com/playlist/37i9dQZF1FabUsjBl7QvHA)   |
+| **Social Media Posts:** [Tweet](https://x.com/insidemordecai/status/1729900380262178852), [Thread](https://www.threads.net/@insidemordecai/post/C0PKAqWiHe5), [Skeet](https://bsky.app/profile/insidemordecai.com/post/3kfdoo4cemf2j) 😂 |
+
+### 2022
+
+I'm still shocked by the total minutes listened but I guess that's what endless hours of uni project programming does to your stats.
+
+| Top Songs                                                           | Top Artists             | 
+|---------------------------------------------------------------------|-------------------------|
+| 1. James Blake - Life Is Not The Same                               | 1. Adele                | 
+| 2. FKA Twigs - Two Weeks                                            | 2. Kendrick Lamar       | 
+| 3. Lil Dicky - Molly (feat. Brendon Urie of Panic at the Disco)     | 3. Kanye West           | 
+| 4. Elaine - You're the One                                          | 4. Doja Cat             | 
+| 5. Doja Cat - Streets                                               | 5. James Blake          | 
+| **Minutes Listened**: 117,052 🤯                                    |                         | 
+| **Top Genre**: Pop, Rap, Alternative R&B, EDM, Afropop              |                         | 
+| **Playlist:** [Top Songs of 2022](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit)   |
+| **Social Media Posts:** [Tweet](https://x.com/insidemordecai/status/1597981761652547584)      |
+
+### 2018 - 2021
+
+Sadly, I just have the playlists from between 2018 and 2021 but not any other data. 
 I can only recall that Adele topped the list every year and there was an increase in minutes listened every consecutive year. 
 
 With that, cheers ✌️.
