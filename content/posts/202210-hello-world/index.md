@@ -19,7 +19,7 @@ Also, as a side-effect, this website will function as a landing page to replace 
 
 As this is a static site, currently a comment section is not implemented and I am not sure if I'll do so. I am weighing up the pros and cons of having it but we'll see how this goes. 
 
-Anyway, feel free to reach out to me. You can have a look at my [About]({{< ref "about/index.md" >}}) or [Projects]({{< ref "projects/index.md" >}}) page.
+Anyway, feel free to reach out to me. You can have a look at my [About]({{< ref "about/index.md" >}}) page.
 
 Cheers 
 

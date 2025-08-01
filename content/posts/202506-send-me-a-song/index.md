@@ -9,7 +9,7 @@ tags: [Music]
 draft: false
 ---
 
-![A wall graffiti with the text 'if we ever stop talking, send me a song'](img/graffiti.jpg)
+![A wall graffiti with the text 'if we ever stop talking, send me a song'](img/graffiti.webp)
 
 Someone shared this photo recently as a status update and it had me intrigued.
 I didn’t want to repost it because I thought it had an air of _uncoolness_ but the statement is grounded in truth. 

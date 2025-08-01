@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2022-10-27T11:54:02+03:00
-draft: false
+draft: true
 
 showDate: false
 showReadingTime: false

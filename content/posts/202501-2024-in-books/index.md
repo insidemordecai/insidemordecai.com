@@ -14,11 +14,11 @@ This was meant to be posted end of last year but as a result of the festivities 
 I wrapped up the year having read 28 books surpassing my reading goal of 20 books. 
 That may sound impressive but my 2024 reads were filled with small and medium sized books with my average page count being 192 pages proving that my fear of chunky books remains present.
 
-![Image showing I read 28 books in 2024 being 5,385 pages. My shortest book was Leo Tolstoy's The Death of Ivan Ilych at 86 pages long and the longest book being Yann Martel's Life of Pi at 460 pages long.](img/overview.jpeg "Overview of books I read in 2024")
+![Image showing I read 28 books in 2024 being 5,385 pages. My shortest book was Leo Tolstoy's The Death of Ivan Ilych at 86 pages long and the longest book being Yann Martel's Life of Pi at 460 pages long.](img/overview.webp "Overview of books I read in 2024")
 
 The books that really stood out for me and I highly recommend were Madeline Miller’s _The Song of Achilles_, Philip Besson’s _Lie With Me_, Ray Bradbury’s _Fahrenheit 451_, Pierce Brown’s _Red Rising_ (which I intend to continue with the series) and Elif Shafak’s _The Island of Missing Trees_. 
 
-![A collage of the book covers of all the books I read in 2024](img/read-books.jpeg "Books I read in 2024")
+![A collage of the book covers of all the books I read in 2024](img/read-books.webp "Books I read in 2024")
 
 A film that I find amazing and I’ve watched more than once is _Life of Pi_.
 Why am I talking about a film?
@@ -52,6 +52,6 @@ Also, tell me about your 2025 reading goals/plans and recommend some reads you f
 
 Cheers ✌️
 
-![Image showing my most read genres in 2024](img/most-read-genres.jpeg "My most read genres in 2024")
+![Image showing my most read genres in 2024](img/most-read-genres.webp "My most read genres in 2024")
 
-![Image showing the books I finished in each month of 2024](img/months-read.jpeg "Books I finished in 2024 and the month I finished them in")
+![Image showing the books I finished in each month of 2024](img/months-read.webp "Books I finished in 2024 and the month I finished them in")

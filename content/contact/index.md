@@ -1,5 +1,5 @@
 ---
-title: Say Hello!
+title: Say Hello 👋
 aliases: /hello
 summary: Details on how to contact me
 description: Details on how to contact me
@@ -16,19 +16,15 @@ showPagination : false
 replyByEmail: false
 ---
 
-Publishing content on here is great, but the real joy often times is in engaging and connecting with different people to discuss music, books, projects, a mutual topic of interest, get feedback and anything under the sun.  
+Posting on here is great, but often times I get a bigger smile engaging with different people to discuss music, books, projects, get feedback and anything under the sun.  
 
 You could try to reach me via social media but I have a complicated relationship with it. 
-The most reliable and easiest way to reach me is via email. 
-Email is not dead and that's your cue to reach out at [mk@insidemordecai.com](mailto:mk@insidemordecai.com) about anything.
+The easiest and most reliable way to get me is via email. 
+After all, email is not dead, so open up your preferred app and email `mk [at] insidemordecai [dot] com`.
 
-Also, if you’re in the Apple ecosystem, you can ping me on iMessage using the same email.
+Also, if you use iMessage, you can ping me with the same email.
 
-Physically, you'll often find me in Nakuru or Nairobi, though I tend to be all over. 
+Physically, you'll often find me in Nakuru or Nairobi. 
 If you're around, we can have a chat over coffee.
 
-Reach out, I promise don't bite.
-
-{{< alert "star" >}}
-Page heavily inspired by Manu Moreale's [contact page](https://manuelmoreale.com/contact)
-{{< /alert >}}
+Reach out, I promise I don't bite.
