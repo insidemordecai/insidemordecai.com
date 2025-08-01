@@ -30,7 +30,7 @@ Here is a collection of other blogs, podcasts and posts that I frequently refere
 - [Naz Hamid](https://nazhamid.com/) - everyday reflections, personal stories and a lot of outdoor activities.
 - [niqwithq](https://niqwithq.com) - Nicolas tells stories and reflects on topics that are very close to his heart.
 - [Nyamani's Substack](https://nyamanimarwa.substack.com/) - everything from night escapades to religion and spirituality, poetry, reviews, and some bold takes.
-- [Public Diary Records](https://iamrajab.blogspot.com/) - a friend's blog all about daring poetry and reflections.
+- [Public Diary Records](https://iamrajab.blogspot.com/) - daring poetry and reflections.
 - [Robb Knight](https://rknight.me) - fun and colourful website on tech, blogging, and other interests.
 - [Robert Birming](https://birming.com/) - a mix of thoughts and experiences (mostly Swedish), put into words.
 - [Starbreaker.org](https://starbreaker.org/) - raw thoughts 'with something to offend everyone.'
@@ -41,15 +41,15 @@ Here is a collection of other blogs, podcasts and posts that I frequently refere
 
 - [Darknet Diaries](https://darknetdiaries.com/) - this is **my favourite podcast** and it's about 'true stories of the dark side of the internet.' Jack Rhysider is a wonderful storyteller and has a way of making cyber-crime, hacking and all that fun jazz beginner-friendly.
 - [F1: Beyond The Grid](https://audioboom.com/channel/beyond-the-grid) - personal and often untold stories of F1 stars.
-- [Filter Stories](https://www.filterstories.org/) together with the spin off shows: A History of Coffee and Science of Coffee
-- [Heavyweight](https://www.pushkin.fm/podcasts/heavyweight)
-- [Hemispheric Views](https://listen.hemisphericviews.com/)
-- [Hyperfixed](https://www.radiotopia.fm/podcasts/hyperfixed)
-- [Kill List](https://wondery.com/shows/kill-list/)
+- [Filter Stories](https://www.filterstories.org/) - stories from the coffee world and how a simple coffee bean impacts millions of people. You'll also enjoy an extra shot with the companion spin off shows: [A History of Coffee](https://historyofcoffee.podbean.com/) and [Science of Coffee](https://www.filterstories.org/episodes/blog-post-title-one-eew9k-tbn38-gnk57-yyy26-rm3ah-6afdf-zfydj-l2wwg-rbmjb-xfrdj-296er).
+- [Heavyweight](https://www.pushkin.fm/podcasts/heavyweight) - Jonathan Goldstein untangles the “what ifs” and unfinished stories of people's past, giving old regrets a second chance. Also, the theme song is amazing. 
+- [Hemispheric Views](https://listen.hemisphericviews.com/) - three blokes with a light-hearted approach to tech, media, cultural differences (from both hemispheres) and family life.
+- [Hyperfixed](https://www.radiotopia.fm/podcasts/hyperfixed) - for all Reply All podcast fans, Alex Goldman tries to get to the bottom of different issues or annoyances. 
+- [Kill List](https://wondery.com/shows/kill-list/) - tech journalist Carl Miller discovers a secret "kill list" targeting innocent people on a murder-for-hire website and is thrown into a race against time to warn those in danger and uncover the truth before it too late.
 - [Lateral](https://lateralcast.com/) - Tom Scott hosts a comedy panel game of weird questions and answers.
 - [P1 with Matt and Tommy](https://lnk.to/p1podcast/) - reactions and opinions from two diehard F1 fans.
-- [Redacted](https://wondery.com/shows/redacted/)
-- [Reply All](https://gimletmedia.com/shows/reply-all/) - about the internet and its compelling stories. My favourite ep. is [#158](https://gimletmedia.com/shows/reply-all/o2h8bx/158-the-case-of-the-missing-hit/).
+- [Redacted](https://wondery.com/shows/redacted/) - lies and secrets from the darkest corners of history (mostly government and military offices) based on declassified information.
+- [Reply All](https://open.spotify.com/show/7gozmLqbcbr6PScMjc0Zl4) - about the internet and its compelling stories. My favourite ep. is [#158](https://gimletmedia.com/shows/reply-all/o2h8bx/158-the-case-of-the-missing-hit/).
 - [Search Engine](https://www.searchengine.show/) - PJ Vogt answers all sort of questions you might search online when you can't sleep.
 - [Small Torque Podcast](https://podcasters.spotify.com/pod/show/katy-fairman/) - first of all, what a clever name. Katy Fairman makes a cup of tea and casually dives into the latest motorsport headlines and topics.
 - [Twenty Thousand Hertz](https://www.20k.org/) - stories behind the world's most recognisable and interesting sounds.
