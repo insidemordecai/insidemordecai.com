@@ -1,7 +1,7 @@
 ---
 title: Odie
 slug: odie
-alias: oddie
+aliases: /oddie
 summary: A short, honest goodbye and the silence that remains.
 description: A short, honest goodbye and the silence that remains.
 date: 2025-07-30T20:58:21+03:00
