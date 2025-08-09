@@ -1,6 +1,7 @@
 ---
-title: Oddie
-slug: oddie
+title: Odie
+slug: odie
+alias: oddie
 summary: A short, honest goodbye and the silence that remains.
 description: A short, honest goodbye and the silence that remains.
 date: 2025-07-30T20:58:21+03:00
@@ -12,7 +13,7 @@ draft: false
 The loss of a dear pet is one of the hardest things to bear.
 I’ve lost pets before, in different ways, but nothing truly prepares you for the slow, painful anticipation of a loss you see coming.
 
-It all started when my guard dog, Oddie, missed his rabies shot.
+It all started when my guard dog, Odie, missed his rabies shot.
 If only he could talk to remind us, nudge us.
 I was oblivious, until a few nights back when the signs began to show.
 The vet confirmed it, and more painfully still, there’s no choice but to watch him go, slowly.
