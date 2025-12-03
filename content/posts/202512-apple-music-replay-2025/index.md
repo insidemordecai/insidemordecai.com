@@ -49,11 +49,11 @@ She really had a grasp on the 2000s music scene, and it's such a shame she never
 
 To wrap things up: Tame Impala finally released something new, but I'm still stuck on _Currents_.
 I'll definitely listen to it soon. 
-A Jeff Buckley documentary also dropped, which I haven't watched yet – but I enjoyed revisiting his 1994 album _Grace_.
+A [Jeff Buckley documentary](https://www.imdb.com/title/tt34966650/) also dropped, which I haven't watched yet – but I enjoyed revisiting his 1994 album _Grace_.
 If you've listened or watched either, let me know how they are. 
 
 I also enjoyed the latest rap entry by Joey Valence & Brae, _HYPERYOUTH_ in November.
-Tyler, The Creator fans will definitely enjoy this too.  
+Tyler, The Creator fans will definitely enjoy this too.
 The features are great and their interview on [turning the tables Podcast](https://youtu.be/UUJQR3Q86TY) is a fun watch too. 
 
 Finally, I surprisingly liked Spotify Wrapped this year, even though mine was based on only a few months of usage.
