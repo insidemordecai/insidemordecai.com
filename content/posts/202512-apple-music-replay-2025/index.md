@@ -17,7 +17,7 @@ Overall, when it comes to the big number everyone likes to share, I had 57,645 t
 
 So.... let's get down to it. 
 
-The elephant in the room is I actually stuck with Apple Music after switching back in February, so this year's recap is a little fragmented. 
+The elephant in the room is I actually stuck with Apple Music after [switching to it]({{< ref "posts/202504-spotify-to-apple-music/index.md" >}}) back in February, so this year's recap is a little fragmented. 
 I'll probably post about my time away from Spotify at some point, but I'm enjoying my time off. 
 
 ![Screenshot of my 2025 Apple Music summary showing total minutes listened, top artists, top songs, and top albums.](img/overview-replay-2025.webp "My 2025 Apple Music Replay Overview")
@@ -62,7 +62,7 @@ I guess they took the flack they got last year to heart – though with this yea
 Anyway, here are all the screenshots for you to scour through if you're inclined. 
 I didn't break down everything in them, but there are definitely some gems. 
 
-So here's my little call to action, [send me a song] recommendation from your recap, why you like it, and maybe a thought about mine (a song/artist you also love, a question, anything).
+So here's my little call to action, [send me a song]({{< ref "posts/202506-send-me-a-song/index.md" >}}) recommendation from your recap, why you like it, and maybe a thought about mine (a song/artist you also love, a question, anything).
 If you want, you can send your recap screenshot too. 
 My email inbox is open. 
 
