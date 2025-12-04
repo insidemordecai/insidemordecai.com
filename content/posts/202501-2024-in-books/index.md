@@ -6,6 +6,8 @@ description: Quick overview of my 2024 in reading.
 date: 2025-01-03T15:10:17+03:00
 categories: [Updates]
 tags: [Books]
+series: ["My Reading Year In Review"]
+series_order: 1
 draft: false 
 ---
 

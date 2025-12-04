@@ -6,6 +6,8 @@ description: Quick overview of my 2025 music listening patterns.
 date: 2025-12-03T21:10:36+03:00
 categories: [Updates]
 tags: [Music, Apple Music, Spotify]
+series: ["My Music Year In Review"]
+series_order: 2
 draft: false
 ---
 

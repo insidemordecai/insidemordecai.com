@@ -6,6 +6,8 @@ description: Quick overview of my 2024 music habits.
 date: 2024-12-11T12:58:12+03:00
 categories: [Updates]
 tags: [Spotify]
+series: ["My Music Year In Review"]
+series_order: 1
 draft: false
 ---
 
