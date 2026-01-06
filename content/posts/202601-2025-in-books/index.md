@@ -12,7 +12,7 @@ draft: false
 ---
 
 Like every previous year, Goodreads prompted me to set how many books I wanted to read as the year began. 
-[I had read 28 books in 2024] and you'd think this would have been the bare minimum for 2025, but no, I went a different route. 
+[I had read 28 books in 2024]({{< ref "posts/202501-2024-in-books/index.md" >}}) and you'd think this would have been the bare minimum for 2025, but no, I went a different route. 
 20 books seemed like a more reasonable target, with a twist: reading thiccc books.
 
 So... I typed out my reading goals in my notes app: 
