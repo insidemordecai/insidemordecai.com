@@ -8,7 +8,7 @@ categories: [Updates]
 tags: [Books]
 series: ["My Reading Year In Review"]
 series_order: 2
-draft: true
+draft: false
 ---
 
 Like every previous year, Goodreads prompted me to set how many books I wanted to read as the year began. 
