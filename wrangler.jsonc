@@ -1,6 +1,6 @@
 {
   "name": "insidemordecai",
-  "compatibility_date": "2025-09-15",
+  "compatibility_date": "2026-02-19",
   "assets": {
     "directory": "./public",
     "html_handling": "auto-trailing-slash",
