@@ -10,6 +10,10 @@
   "build": {
     "command": "hugo build --gc --minify",
   },
+  "[vars]": {  // Environment variables passed to build
+    "HUGO_VERSION": "extended_0.155.3",
+    "HUGO_ENV": "production"
+  },
   "workers_dev": true,
   "preview_urls": true
 }
