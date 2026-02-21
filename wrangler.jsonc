@@ -1,10 +1,6 @@
 {
   "name": "insidemordecai",
   "compatibility_date": "2026-02-19",
-  "vars": {
-    "HUGO_VERSION": "extended_0.155.3",
-    "HUGO_ENV": "production"
-  },
   "assets": {
     "directory": "./public",
     "html_handling": "auto-trailing-slash",
