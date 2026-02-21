@@ -22,7 +22,7 @@ The source code for this website is available [here](https://github.com/insidemo
 
 ## Credits 
 
-Currently, this site is hosted on [Cloudflare Pages](https://pages.cloudflare.com/) and built using [Hugo](https://gohugo.io/) static site generator and [Blowfish theme](https://blowfish.page/) by [Nuno Coração](https://n9o.xyz/). 
+Currently, this site is hosted on [Cloudflare Workers](https://workers.cloudflare.com/) and built using [Hugo](https://gohugo.io/) static site generator and [Blowfish theme](https://blowfish.page/) by [Nuno Coração](https://n9o.xyz/). 
 
 The [background image](https://unsplash.com/photos/abstract-blue-shapes-appear-to-float-in-the-air-aVjegSvlFHk) is by [Hassaan Here](https://unsplash.com/@hassaanhre) on Unsplash.
 
