@@ -9,20 +9,22 @@ tags: [Homelab, Docker, Self-Hosting]
 draft: true
 ---
 
-I originally built this media stack as a complete beginner. 
+I originally built this media stack as a complete beginner to homelabbing. 
 It started as a way to learn Docker while automating my setup and slowly turned into something I rely on daily. 
 Over time I refined it to the point where it runs quietly and flawlessly in the background.
 
 I'm planning to migrate everything to Proxmox soon, so I'm posting my internal documentation before I tear it down. 
 This isn't the only way to do it.
 It's simply how I did mine.
+
 ## Hardware
 
-This runs on my old laptop with an i5-7200U on bare metal Linux. 
+This runs on my old laptop with an Intel Core i5-7200U on bare metal Linux. 
 The distro doesn't really matter since everything runs inside Docker but if you really need to know, I've used this setup with Omarchy and CachyOS. 
 Nothing fancy. 
 No enterprise gear. 
 Just hardware I had lying around.
+
 ## Why This Stack
 
 -   **Jellyfin** because it's open source. No paid tiers. No "upgrade to
@@ -37,7 +39,6 @@ Just hardware I had lying around.
 ## Folder Mapping
 
 At a high level, all the files live under `/data` on the host.
-
 This is my current structure:
 
     data
@@ -49,21 +50,19 @@ This is my current structure:
         └── tv
 
 Create your directories before proceeding.
-
 Here's an easy command to run in your `/data` directory if you want a
 similar scheme:
 
 ``` shell
 mkdir -p torrents/{completed,incomplete} && mkdir -p media/{movies,tv}
 ```
+
 ## Setup Process
 
 The full `docker-compose.yml` files and `.env.example` templates live in
-my homelab repository:
+my homelab repository: [https://github.com/insidemordecai/homelab](https://github.com/insidemordecai/homelab).
 
-https://github.com/insidemordecai/homelab
-
-Clone it or download the zip.
+Clone it or download a zip of it.
 
 ### Step 0
 
@@ -112,13 +111,10 @@ docker compose rm # to remove containers (stop them first)
 
 ## qBittorrent
 
-http://localhost:8080
+[http://localhost:8080](http://localhost:8080)
 
 Launch qBittorrent and log in.
-
--   Username: `admin`
--   Password: randomly generated on first launch
-
+The username is `admin` while the password is randomly generated on first launch.
 To find the password:
 
 ``` shell
@@ -147,7 +143,7 @@ My preferences are:
 
 ### Prowlarr
 
-http://localhost:9696
+[http://localhost:9696](http://localhost:9696)
 
 Go to **Settings → Download Clients** and add qBittorrent.
 
@@ -171,7 +167,7 @@ Attach the tag to any problematic indexer that needs to bypass Cloudflare Captch
 
 ### Radarr
 
-http://localhost:7878
+[http://localhost:7878](http://localhost:7878)
 
 Under **Settings → Media Management**, add Root Folder: `/data/media/movies` (match your `docker-compose.yml`)
 
@@ -209,7 +205,7 @@ My tweaks:
 
 ### Sonarr
 
-http://localhost:8989
+[http://localhost:8989](http://localhost:8989)
 
 Same process as Radarr, but Root Folder: `/data/media/tv`.
 
@@ -223,10 +219,10 @@ In Media Management:
 
 ### Bazarr
 
-http://localhost:6767
+[http://localhost:6767](http://localhost:6767)
 
 Under **Settings → Sonarr**, enable and configure connection.
-Set the minimum score in **Options**: `90` (TRaSH-Guide recommendation).
+Set the minimum score in **Options** to `90` (TRaSH-Guide recommendation).
 
 Under **Settings → Radarr**, enable and configure the connection.
 Minimum score: `80`
@@ -246,20 +242,19 @@ Under **Settings → Subtitles**:
     -   Movies: `86`
 ## Jellyfin
 
-http://localhost:8096
+[http://localhost:8096](http://localhost:8096)
 
-Complete initial setup in browser.
-
-Add libraries:
+Complete initial setup in browser and map your libraries:
 
 -   Movies: `/data/media/movies`
 -   TV: `/data/media/tv`
 
 That's it.
 Tweak the settings to your liking.
+
 ## Jellyseerr
 
-http://localhost:5055
+[http://localhost:5055](http://localhost:5055)
 
 Follow the on-screen guide.
 
@@ -287,6 +282,7 @@ sudo ufw allow 8096
 
 Be deliberate. 
 Don't open ports blindly.
+
 ## A Note on Exposing Services
 
 If you decide to expose any of these services outside your local network, understand the risks first.
@@ -298,7 +294,7 @@ Know what you're exposing and why.
 This stack runs perfectly fine entirely within a local network.
 The next post will show how to use Cloudflare Tunnels to securely expose some services.
 
-------------------------------------------------------------------------
+---
 
 The full compose files and configuration templates are available here:
 
@@ -308,3 +304,9 @@ This setup has been stable for me for a long time.
 If I ever need to rebuild it on another machine, it's just a matter of cloning the repo and running `docker compose up -d`.
 
 Next step: rebuilding this properly under Proxmox.
+
+## Explore Further
+
+- [Servarr Wiki](https://wiki.servarr.com/)
+- [TRaSH Guides](https://trash-guides.info/)
+- [TechHut's Setup](https://github.com/TechHutTV/homelab/)
