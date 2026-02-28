@@ -1,12 +1,12 @@
 ---
 title: Self Hosted Media With Docker
 slug: self-hosted-media-with-docker
-summary: My Docker media stack with Jellyfin and the Arr apps
+summary: My homelab setup using a media stack on Docker with Jellyfin and the Arr apps
 description: How I built and run my self hosted media stack with Docker, Jellyfin and the Arr apps.
-date: 2026-02-26T21:39:18+03:00
+date: 2026-02-28T12:00:00+03:00
 categories: [Technical]
 tags: [Homelab, Docker, Self-Hosting]
-draft: true
+draft: false
 ---
 
 I originally built this media stack as a complete beginner to homelabbing. 
