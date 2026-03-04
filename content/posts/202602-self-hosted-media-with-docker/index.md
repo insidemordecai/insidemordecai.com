@@ -60,7 +60,7 @@ mkdir -p torrents/{completed,incomplete} && mkdir -p media/{movies,tv}
 ## Setup Process
 
 The full `docker-compose.yml` files and `.env.example` templates live in
-my homelab repository: [https://github.com/insidemordecai/homelab](https://github.com/insidemordecai/homelab).
+my homelab repository: [github.com/insidemordecai/homelab/tree/blog-media-stack-2026](https://github.com/insidemordecai/homelab/tree/blog-media-stack-2026).
 
 Clone it or download a zip of it.
 
@@ -298,7 +298,7 @@ The next post will show how to use Cloudflare Tunnels to securely expose some se
 
 The full compose files and configuration templates are available here:
 
-[https://github.com/insidemordecai/homelab](https://github.com/insidemordecai/homelab)
+[github.com/insidemordecai/homelab/tree/blog-media-stack-2026](https://github.com/insidemordecai/homelab/tree/blog-media-stack-2026)
 
 This setup has been stable for me for a long time.
 If I ever need to rebuild it on another machine, it's just a matter of cloning the repo and running `docker compose up -d`.
