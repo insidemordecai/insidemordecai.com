@@ -254,7 +254,7 @@ Tweak the settings to your liking.
 
 ## Jellyseerr
 > [!NOTE]
-> And wouldn’t you know it, just after posting this [article](https://docs.seerr.dev/blog/seerr-release) I learned that the Seerr team announced they’ll be merging Overseerr and Jellyseerr. 
+> And wouldn’t you know it, just after posting this article I learned that the Seerr team [announced](https://docs.seerr.dev/blog/seerr-release) they’ll be merging Overseerr and Jellyseerr. 
 > You can find the [migration guide here](https://docs.seerr.dev/migration-guide).
 
 [http://localhost:5055](http://localhost:5055)
