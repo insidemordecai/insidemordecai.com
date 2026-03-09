@@ -3,18 +3,19 @@ title: Cloudflare Tunnel for Homelab Services
 slug: homelab-cloudflare-tunnel
 summary: Using Cloudflare Tunnel to securely expose my homelab services.
 description: How I use Cloudflare Tunnel to securely expose my Docker homelab services without opening ports or revealing my public IP. 
-date: 2026-03-04T22:25:15+03:00
+date: 2026-03-09T20:05:15+03:00
 categories: [Technical]
 tags: [Homelab, Cloudflare Tunnel]
-draft: true
+draft: false
 ---
 
-After getting my media stack stable as show in my [previous post]({{< ref "posts/202602-self-hosted-media-with-docker/index.md" >}}), the next question was remote
+After getting my media stack stable as shown in my [previous post]({{< ref "posts/202602-self-hosted-media-with-docker/index.md" >}}), the next question was remote
 access.
 
-Since I already manage my domains on Cloudflare, using a Tunnel was the cleanest option.
+As a side note, since I'll be changing my homelab setup, I'm thinking of adding [Tailscale](https://tailscale.com/) as a VPN to securely connect to certain services.
 
-This was rather straightforward for me, I had used Cloudflare Tunnel before in Fedora and tried a containerized version on Arch. 
+Anyway, I already manage my domains on Cloudflare, so using Cloudflare Tunnel was always been the cleanest option.
+I had used it before in Fedora and tried a containerized version on Arch. 
 So it was only natural for me to side-step to a Docker Compose setup. 
 
 This is how I set mine up.
@@ -91,7 +92,6 @@ For me, this paired perfectly with my Docker media stack.
 Clean internal networking, and controlled external access when needed.
 
 The compose files for my setup live here:
-
 [github.com/insidemordecai/homelab/tree/blog-media-stack-2026](https://github.com/insidemordecai/homelab/tree/blog-media-stack-2026)
 
 ## Explore Further 
