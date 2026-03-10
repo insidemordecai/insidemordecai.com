@@ -19,23 +19,20 @@ It's simply how I did mine.
 
 ## Hardware
 
-This runs on my old laptop with an Intel Core i5-7200U on bare metal Linux. 
-The distro doesn't really matter since everything runs inside Docker but if you really need to know, I've used this setup with Omarchy and CachyOS. 
+This runs on my old laptop with an Intel Core i5-7200U with 8 gigs of DDR4 RAM and no dedicated GPU on bare metal Linux. 
+The distro doesn't really matter since everything runs inside Docker but if you really need to know, I've used this setup with Arch Linux, Omarchy (which is basically pre-configured Arch) and CachyOS. 
 Nothing fancy. 
 No enterprise gear. 
 Just hardware I had lying around.
 
 ## Why This Stack
 
--   **Jellyfin** because it's open source. No paid tiers. No "upgrade to
-    unlock this feature". No authentication that needs to phone home to
-    someone else's servers. I want my media server to be mine.
+-   **Jellyfin** because it's open source. No paid tiers. No "upgrade to unlock this feature". No authentication that needs to phone home. I want my media server to be mine.
 -   **qBittorrent** because it's reliable and I'm used to it.
--   **Prowlarr** because managing indexers in one place is significantly
-    cleaner.
+-   **Prowlarr** because managing indexers in one place is significantly cleaner.
 -   **Radarr / Sonarr / Bazarr** because automation is the whole point.
--   **Docker** because I can tear this down and spin it back up
-    anywhere.
+-   **Docker** because I can tear this down and spin it back up anywhere.
+
 ## Folder Mapping
 
 At a high level, all the files live under `/data` on the host.
@@ -256,6 +253,7 @@ Tweak the settings to your liking.
 > [!NOTE]
 > And wouldn’t you know it, just after posting this article I learned that the Seerr team [announced](https://docs.seerr.dev/blog/seerr-release) they’ll be merging Overseerr and Jellyseerr. 
 > You can find the [migration guide here](https://docs.seerr.dev/migration-guide).
+> Also, you can find my Seerr implementation on my [GitHub repo](https://github.com/insidemordecai/homelab).
 
 [http://localhost:5055](http://localhost:5055)
 
@@ -277,12 +275,6 @@ sudo ufw allow 6881/tcp #default qBittorrent listening port
 sudo ufw allow 6881/udp
 ```
 
-To expose Jellyfin:
-
-``` shell
-sudo ufw allow 8096
-```
-
 Be deliberate. 
 Don't open ports blindly.
 
@@ -295,12 +287,11 @@ Use proper authentication, reverse proxies, or secure tunnels.
 Know what you're exposing and why.
 
 This stack runs perfectly fine entirely within a local network.
-The next post will show how to use Cloudflare Tunnels to securely expose some services.
+The next post will show [how to use Cloudflare Tunnels to securely expose some services]({{< ref "posts/202603-homelab-cloudflare-tunnel/index.md" >}}).
 
 ---
 
 The full compose files and configuration templates are available here:
-
 [github.com/insidemordecai/homelab/tree/blog-media-stack-2026](https://github.com/insidemordecai/homelab/tree/blog-media-stack-2026)
 
 This setup has been stable for me for a long time.
