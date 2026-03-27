@@ -27,8 +27,9 @@ For the uninitiated, check out [About Feeds](https://aboutfeeds.com/) or [RSS Ma
 You'll thank me later!
 
 I recommend either of these feed readers:
-- [Unread](https://www.goldenhillsoftware.com/unread/) - what I currently use. Core features available for free (iOS/Mac). 
-- [NetNewsWire](https://netnewswire.com/) - free and open source (iOS/Mac).
+- [NetNewsWire](https://netnewswire.com/) - What I currently use. Free and open source (iOS/Mac).
 - [Inoreader](https://www.inoreader.com/) - allows 150 subscriptions on the free plan (iOS/Android/Web).
+- [Unread](https://www.goldenhillsoftware.com/unread/) - core features available for free (iOS/Mac). 
 
-Need a hand? Don’t hesitate to reach out — I’ll show you the light! 😂
+Need a hand? 
+Don’t hesitate to reach out — I’ll show you the light! 😂
