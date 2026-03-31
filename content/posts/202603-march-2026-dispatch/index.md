@@ -19,11 +19,11 @@ Think of **Dispatch** as my _hopefully_ monthly mixtape from the internet with n
 
 [I made a SPACE MOVIE 🚀 without leaving my apartment](https://youtu.be/If-XGaHZSts) - That is not clickbait, Caroline Klidonas did just that. This is a quirky video that will have you smiling.
 
-[Why the internet hates my surname](https://youtu.be/0f3RMYTCvMU) - Luke O'Sullivan goes into a issue he faces with his second name on the internet and boy do I relate. It's annoying that some modern systems still have issues or arbitrary restrictions when it comes to special characters. 
+[Why the internet hates my surname](https://youtu.be/0f3RMYTCvMU) - Luke O'Sullivan goes into an issue he faces with his second name on the internet and boy do I relate. It's annoying that some modern systems still have issues or arbitrary restrictions when it comes to special characters. 
 
-[The Novel Technologies Of Singapore's Library System](https://youtu.be/xOjOiIXO1P4) - Whoever titled this clearly had a blast and they deserve an award for enthusiasm. This was an interesting behind the scenes of a highly effective system from auto-sorting and cataloging to book returns, you don't have to love libraries to like this video.
+[The Novel Technologies Of Singapore's Library System](https://youtu.be/xOjOiIXO1P4) - Whoever titled this clearly had a blast and they deserve an award for enthusiasm. This is an interesting behind the scenes of a highly effective system from auto-sorting and cataloguing to book returns. You don't have to love libraries to like this video.
 
-[Can MKBHD's Team Make ANY Phone Look Cinematic??](https://youtu.be/UecKUN9AUaM) - I watched this expecting a tutorial but got something much better.  It felt more like a short film festival from an insanely creative team. And it’s hilarious too.
+[Can MKBHD's Team Make ANY Phone Look Cinematic??](https://youtu.be/UecKUN9AUaM) - I watched this expecting a video akin to a tutorial but got something much better.  It felt more like a short film festival from an insanely creative team. And it’s hilarious too.
 
 [Why do office chairs have 5 legs?](https://youtu.be/kKt46Lch2bo) - If you've ever wondered (or not) why four legs might work for tables but not office chairs, this one's for you.
 
