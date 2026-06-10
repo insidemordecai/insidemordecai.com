@@ -45,7 +45,7 @@ I sure hope someone takes legal action on this, or that somehow Microsoft renege
 
 ## Explore Further 
 - [Dr. Adrian Mallard (John Malkovich) "Fuck Microsoft" Scene on Space Force (Netflix)](https://youtu.be/2zpCOYkdvTQ) - well this scene continues being relevant.
-- [Microsoft revokes Office 2019 perpetual licenses, then edits their website to gaslight customers](https://youtu.be/KRnno9VIZx0) - Louis Rossman goes over this announcement and how Microsoft made changes to their website announcing the end of support while pretending they didn't change their initial statement from October last year.
+- [Microsoft revokes Office 2019 perpetual licenses, then edits their website to gaslight customers](https://youtu.be/KRnno9VIZx0) - Louis Rossman goes over this announcement and how Microsoft quietly made changes to their initial end of support statement from October last year.
 - [Microsoft Office 2019 and 2021 for Mac view-only conversion (2026)](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)) on the Consumer Rights Wiki
 - [Certificate update for Microsoft 365 apps on managed macOS and iOS devices](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/certificate-update-mac-ios) - in case you need extra info on the certificates issue.
 - [Microsoft is disabling Office 2019 for Mac on July 13, 2026](https://jimmytechsf.com/blog/office-2019-mac-disabled-july-2026) by JimmyTech
