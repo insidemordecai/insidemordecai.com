@@ -18,7 +18,7 @@ At what point is corporate greed too much?
 Microsoft are effectively killing these versions of their office suite that users made a one-time purchase for. 
 With such an acquisition, I expect the product to continue getting updates during its period of support, but crucially, remain functional beyond end of support. 
 Look at Windows 10, despite it being end-of-life (EOL), it continues working like a normal operating system. 
-But here's the same company nuking a product and nudging the same people towards another perpetual licence — Office 2021 — that might suffer the same fate.
+But here's the same company nuking a product and nudging the same people towards another perpetual licence — Office 2024 — that might suffer the same fate.
 They're also steering customers towards a subscription in the form of Microsoft 365. 
 That's the epitome of greed. 
 
