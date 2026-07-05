@@ -1,5 +1,5 @@
 ---
-title: On  the Semantics of "Homosexual" and "Queer"
+title: On  the Semantics of Terms in the Queer Community
 slug: homosexual-queer-semantics
 summary: A reflection on language, identity, and the weight certain words carry.
 description: A reflection on the language of queer identity, and why “homosexual” and “queer” can carry very different meanings in Kenya and beyond.
