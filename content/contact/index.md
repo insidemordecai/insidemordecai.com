@@ -20,7 +20,7 @@ Posting on here is great, but often times I get a bigger smile engaging with dif
 
 You could try to reach me via social media but I have a complicated relationship with it. 
 The easiest and most reliable way to get me is via email. 
-After all, email is not dead, so open up your preferred app and email `mk [at] insidemordecai [dot] com`.
+After all, [email is not dead]({{< ref "posts/202505-email-is-not-dead/index.md" >}}), so open up your preferred app and email `mk [at] insidemordecai [dot] com`.
 
 Also, if you use iMessage, you can ping me with the same email.
 

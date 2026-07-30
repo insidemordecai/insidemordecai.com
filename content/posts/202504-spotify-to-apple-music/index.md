@@ -9,7 +9,7 @@ tags: [Spotify, Apple Music]
 draft: false
 ---
 
-After 10 years on Sweden’s finest app, 4000+ liked songs, a bunch of playlists and 100+ albums, I made the switch to Cupertino just over a month ago. 
+After 8 years on Sweden’s finest app, 4000+ liked songs, a bunch of playlists and 100+ albums, I made the switch to Cupertino just over a month ago. 
 
 This wasn’t an easy decision to make.
 It took a couple of months, and this time it might be for real.
