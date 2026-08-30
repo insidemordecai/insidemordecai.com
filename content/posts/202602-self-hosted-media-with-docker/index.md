@@ -108,8 +108,6 @@ docker compose rm # to remove containers (stop them first)
 
 ## qBittorrent
 
-[http://localhost:8080](http://localhost:8080)
-
 Launch qBittorrent and log in.
 The username is `admin` while the password is randomly generated on first launch.
 To find the password:
@@ -140,8 +138,6 @@ My preferences are:
 
 ### Prowlarr
 
-[http://localhost:9696](http://localhost:9696)
-
 Go to **Settings → Download Clients** and add qBittorrent.
 
 Match the Web UI port (default 8080) and enter credentials.
@@ -163,8 +159,6 @@ In Prowlarr:
 Attach the tag to any problematic indexer that needs to bypass Cloudflare Captcha.
 
 ### Radarr
-
-[http://localhost:7878](http://localhost:7878)
 
 Under **Settings → Media Management**, add Root Folder: `/data/media/movies` (match your `docker-compose.yml`)
 
@@ -202,8 +196,6 @@ My tweaks:
 
 ### Sonarr
 
-[http://localhost:8989](http://localhost:8989)
-
 Same process as Radarr, but Root Folder: `/data/media/tv`.
 
 Configure Download Client and Remote Path Mapping the same way.
@@ -215,8 +207,6 @@ In Media Management:
 -   Check *Rename Episodes*
 
 ### Bazarr
-
-[http://localhost:6767](http://localhost:6767)
 
 Under **Settings → Sonarr**, enable and configure connection.
 Set the minimum score in **Options** to `90` (TRaSH-Guide recommendation).
@@ -239,8 +229,6 @@ Under **Settings → Subtitles**:
     -   Movies: `86`
 ## Jellyfin
 
-[http://localhost:8096](http://localhost:8096)
-
 Complete initial setup in browser and map your libraries:
 
 -   Movies: `/data/media/movies`
@@ -254,8 +242,6 @@ Tweak the settings to your liking.
 > And wouldn’t you know it, just after posting this article I learned that the Seerr team [announced](https://docs.seerr.dev/blog/seerr-release) they’ll be merging Overseerr and Jellyseerr. 
 > You can find the [migration guide here](https://docs.seerr.dev/migration-guide).
 > Also, you can find my Seerr implementation on my [GitHub repo](https://github.com/insidemordecai/homelab).
-
-[http://localhost:5055](http://localhost:5055)
 
 Follow the on-screen guide.
 
