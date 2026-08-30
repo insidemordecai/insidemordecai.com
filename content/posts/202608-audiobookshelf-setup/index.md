@@ -30,13 +30,11 @@ The first part was simply settling on the same folder structure as my films and 
 
 I followed that by copying Audiobookshelf's [docker-compose.yml template](https://audiobookshelf.org/docs/documentation/install/docker#docker-compose),  tweaking it to match my setup (directory structure and network) and naming the container.
 
-```
+```yml
 services:
   audiobookshelf:
     image: ghcr.io/advplyr/audiobookshelf:latest
     container_name: audiobookshelf
-    # ABS runs on port 13378 by default. If you want to change
-    # the port, only change the external port
     ports:
       - 13378:80
     volumes:
