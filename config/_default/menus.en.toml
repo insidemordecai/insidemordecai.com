@@ -11,60 +11,58 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "about"
+ name = "About"
  pageRef = "about"
  weight = 10
 
 [[main]]
- name = "posts"
+ name = "Posts"
  pageRef = "posts"
  weight = 15
 
 # [[main]]
-#  name = "projects"
+#  name = "Projects"
 #  pageRef = "projects"
 #  weight = 20
 
 [[main]]
-  name = "links"
+  name = "Links"
   pageRef = "links"
   weight = 25
 
 [[main]]
-  identifier = "subscribe"
-  name = "subscribe"
-  url = "/subscribe"
-  weight = 30 
-
-
-# [[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
-
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
-
+  name = "Subscribe"
+  pageRef = "subscribe"
+  weight = 30
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-  name = "colophon"
+ name = "Categories"
+ pageRef = "categories"
+ weight = 1
+
+[[footer]]
+ name = "Tags"
+ pageRef = "tags"
+ weight = 2
+
+
+[[footer]]
+  name = "Colophon"
   pageRef = "colophon"
   weight = 10
 
 
 [[footer]]
-  name = "contact"
+  name = "Contact"
   pageRef = "contact"
   weight = 15
 
 [[footer]]
-  name = "support"
+  name = "Support"
   pageRef = "support"
   weight = 20 
 
