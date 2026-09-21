@@ -27,7 +27,7 @@ These and many more are the reasons why year on year, VS Code leads in various s
 
 ## Why Vim?
 
-My previous encounter with Vim was the classic, enter and get stuck trying to exit. That was until I enrolled for a [Software Engineering course with ALx Africa](https://www.alxafrica.com/programme_post/full-stack-software-engineer/) and we had to use Vim full time.
+My previous encounter with Vim was the classic, enter and get stuck trying to exit. That was until I enrolled for a Software Engineering course with [ALX Africa](https://www.alxafrica.com/) and we had to use Vim full time.
 
 I watched a lot of tutorials on YouTube and one channel that kept popping up was [ThePrimeagen](https://www.youtube.com/c/theprimeagen). Using VS Code after watching him felt inefficient. I mean the dude was  flying through, I couldn't keep up but it inspired me. 
 

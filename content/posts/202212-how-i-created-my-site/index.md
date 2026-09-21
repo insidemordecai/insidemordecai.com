@@ -24,7 +24,7 @@ This part may differ based on your development setup. I'd recommend Chocolatey f
 ## Creating Your New Hugo Site
 
 1. Open your console, navigate to where you want to save your site and run `hugo new site .` to create the site in the current directory. If you'd like to create the site in a new directory, run `hugo new site SITE_NAME`. 
-2. Look for a Hugo theme and setup the site skeleton based on the theme's documentation. I personally use [Blowfish](https://nunocoracao.github.io/blowfish)
+2. Look for a Hugo theme and setup the site skeleton based on the theme's documentation. I personally use [Blowfish](https://blowfish.page)
 
 I recommend downloading themes as a [Git Submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) as this will make it easier to update them. It's also important to choose a theme with great documentation for your ease of use.
 
@@ -32,7 +32,7 @@ I recommend downloading themes as a [Git Submodule](https://git-scm.com/book/en/
 
 At this point we already have a skeleton of a site and we can run `hugo server` at the root of our site. This will also allow us to observe the changes we make and their effect. You can run `hugo server -D` if you want to test out with some draft posts as by default Hugo doesn't show drafts.
 
-Your site is now available at [localhost:1313](http://localhost:1313)
+Your site is now available at `http://localhost:1313`
 
 Google as well as your theme's documentation will be your friend from hereon. You can check out the exampleSite and other sites that use the same theme for inspiration.
 

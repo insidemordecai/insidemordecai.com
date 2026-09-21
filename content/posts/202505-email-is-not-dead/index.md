@@ -37,7 +37,6 @@ Don’t be shy, just write away.
 If you don’t know where to get my details, hint hint, my [contact page]({{< ref "contact/index.md" >}}) has something 😂.
 
 ### Explore Further
-- [Email is Still Useful](https://starbreaker.org/blog/tech/email-still-useful/index.html)
 - [there is beauty in the minimalism of email](https://j3s.sh/thought/there-is-beauty-in-the-minimalism-of-email.html)
 - [Just Use Email](https://www.justuseemail.com/) - a site dedicated to the various ways people and small to medium-sized businesses (SMBs) should Just Use Email
 - [Email is not dead. But email IS changing.](https://www.emailisnotdead.com/)

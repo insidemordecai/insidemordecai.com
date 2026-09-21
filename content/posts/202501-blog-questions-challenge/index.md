@@ -14,7 +14,7 @@ I refreshed [Unread](https://www.goldenhillsoftware.com/unread/) a few moments a
 And guess what? 
 They all coincidentally reference each other. 
 
-I started with [Kev’s post](https://kevquirk.com/blog/blog-questions-challenge), then [Manu’s](https://manuelmoreale.com/blog-questions-challenge) and finally [Dalton’s](https://dltn.io/posts/blog-questions-challenge). 
+I started with [Kev’s post](https://kevquirk.com/blog/blog-questions-challenge), then [Manu’s](https://manuelmoreale.com/thoughts/blog-questions-challenge) and finally [Dalton’s](https://dltn.io/posts/blog-questions-challenge). 
 Upon reading those, I thought why not give this a go, after all, I’ve never participated in any blogging challenge. 
 
 ## Why did you start blogging in the first place? 

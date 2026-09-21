@@ -25,7 +25,7 @@ Here is a collection of other blogs, podcasts and posts that I frequently refere
 - [Kev Quirk](https://kevquirk.com/) - posts about tech, web design, watch collecting and Kev's other interests.
 - [Kwon.nyc](https://kwon.nyc/) - an 'online journal' about things Rachel observes in her daily life, thoughts on them, and more.
 - [Labnotes](https://labnotes.org/) - think of this as a witty and informative weekly compilation of links, images, posts and pretty much everything on tech, design, and culture.
-- [Manu](https://manuelmoreale.com/) - Manuel writes about independent web, minimalism, tech, personal insights and a lot about people. You can discover some of them in his [People & Blogs](https://manuelmoreale.com/people-and-blogs) series. Also, his site has a tasteful and thoughtful minimal style.
+- [Manu](https://manuelmoreale.com/) - Manuel writes about independent web, minimalism, tech, personal insights and a lot about people. Also, his site has a tasteful and thoughtful minimal style.
 - [Minutes to Midnight](https://minutestomidnight.co.uk/) - opinions on improving the web, sustainability, tech, and audio, along with other interests.
 - [Naz Hamid](https://nazhamid.com/) - everyday reflections, personal stories and a lot of outdoor activities.
 - [niqwithq](https://niqwithq.com) - Nicolas tells stories and reflects on topics that are very close to his heart.
@@ -46,7 +46,7 @@ Here is a collection of other blogs, podcasts and posts that I frequently refere
 - [Kill List](https://wondery.com/shows/kill-list/) - tech journalist Carl Miller discovers a secret "kill list" targeting innocent people on a murder-for-hire website and is thrown into a race against time to warn those in danger and uncover the truth before it too late.
 - [Lateral](https://lateralcast.com/) - Tom Scott hosts a comedy panel game of weird questions and answers.
 - [Redacted](https://wondery.com/shows/redacted/) - lies and secrets from the darkest corners of history (mostly government and military offices) based on declassified information.
-- [Reply All](https://open.spotify.com/show/7gozmLqbcbr6PScMjc0Zl4) - about the internet and its compelling stories. My favourite ep. is [#158](https://gimletmedia.com/shows/reply-all/o2h8bx/158-the-case-of-the-missing-hit/).
+- [Reply All](https://open.spotify.com/show/7gozmLqbcbr6PScMjc0Zl4) - about the internet and its compelling stories. My favourite ep. is [#158](https://open.spotify.com/episode/0CaOGo6xSN51B2aLAQa1kU).
 - [Search Engine](https://www.searchengine.show/) - PJ Vogt answers all sort of questions you might search online when you can't sleep.
 - [Twenty Thousand Hertz](https://www.20k.org/) - stories behind the world's most recognisable and interesting sounds.
 - [Who Shat On The Floor At My Wedding?](https://www.whoshatontheflooratmywedding.com/) - a comedic investigation into bizarre non-crime mysteries.
@@ -59,7 +59,7 @@ Inspired by [Scott Nesbitt](https://scottnesbitt.net/)
 - [Digital Minimalism](https://47nil.com/digital.html)
 - [My Coffee Maker Just Makes Coffee](https://btxx.org/posts/one-thing/)
 - [Some Thoughts on Social Media](https://chrishannah.me/some-thoughts-on-social-media-2021-sept/)
-- [Unsolicited blogging advice](https://manuelmoreale.com/unsolicited-blogging-advice)
+- [Unsolicited blogging advice](https://manuelmoreale.com/thoughts/unsolicited-blogging-advice)
 - [This Page is Designed to Last](https://jeffhuang.com/designed_to_last/)
 - [Seeking Inspiration?](https://sive.rs/io)
 - [Why Make a Website in 2025](https://blog.jim-nielsen.com/2025/why-make-a-website-in-2025/)
