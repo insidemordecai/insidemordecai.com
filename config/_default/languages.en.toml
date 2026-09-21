@@ -1,5 +1,5 @@
-languageCode = "en"
-languageName = "English"
+local = "en"
+label = "English"
 weight = 1
 title = "Mordecai Kipng'etich"
 
