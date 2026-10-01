@@ -1,6 +1,6 @@
 ---
 title: September 2026 Dispatch
-slug: 202609-september-2026-dispatch
+slug: september-2026-dispatch
 summary: A quick collection of what I watched, listened to, and read this month.
 description: A monthly entry in my Dispatch series, gathering what I’ve been watching, reading, and listening to. It’s a personal snapshot of what caught my attention online during September 2026.
 date: 2026-09-30T22:58:19+03:00
