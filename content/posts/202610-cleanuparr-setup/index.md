@@ -63,8 +63,6 @@ You can read the full [detailed installation guide](https://cleanuparr.github.io
 In my case, `${DATA_VOLUME}` is my storage location while `${TZ}` points to my timezone , both configured in a `.env` file. 
 Additionally, `stacknet` is my custom shared network across different Docker stacks.
 
-I included the `extra_hosts` section to allow using qBittorrent's container name as a hostname since the application is not in the `stacknet` network. 
-
 ## Post-Installation
 1. Access the web interface (`http://localhost:11011`), create an admin account and setup 2FA. 
 2. Log into the newly created account.
