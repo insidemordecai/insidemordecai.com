@@ -28,13 +28,25 @@
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end -}}
     {{ range $pages }}
+    {{- /*
+      Feed readers do not load the site's CSS or JavaScript. Blowfish adds
+      scripts, styles, and inline SVG icons to the rendered content; strip
+      them so they cannot leak into the feed.
+    */ -}}
+    {{- $content := .Content | string -}}
+
+    {{- /* Remove JavaScript, CSS, and inline icon SVGs. */ -}}
+    {{- $content = replaceRE `(?s)<script\b.*?</script>` "" $content -}}
+    {{- $content = replaceRE `(?s)<style\b.*?</style>` "" $content -}}
+    {{- $content = replaceRE `(?s)<svg\b.*?</svg>` "" $content -}}
+
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Params.Author.email }}<author>{{.}}{{ with $.Site.Params.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Content | html }}</description>
+      <description>{{ $content | html }}</description>
       {{ range ( where .Site.RegularPages ".RelPermalink" .RelPermalink | first 1 ) }}
         {{- $images := .Resources.ByType "image" -}}
         {{- $featured := $images.GetMatch "*feature*" -}}
