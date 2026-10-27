@@ -96,6 +96,18 @@
     {{- $content = replaceRE `(?s)<button[^>]*>\s*</button>` "" $content -}}
     {{- $content = replaceRE `(?s)<p>\s*</p>` "" $content -}}
 
+    {{- /* Strip theme-specific layout hooks and CSS attributes. */ -}}
+    {{- $content = replaceRE `\s+data-(type|accordion|accordion-separated)="[^"]*"` "" $content -}}
+    {{- $content = replaceRE `\s+data-accordion-item\b` "" $content -}}
+    {{- $content = replaceRE `\s+data-twe-[\w-]+` "" $content -}}
+    {{- $content = replaceRE `\s+data-(lang|zoom-src)(="[^"]*")?` "" $content -}}
+    {{- $content = replaceRE `\s+id="accordion-[^"]*"` "" $content -}}
+    {{- $content = replaceRE `\s+class=("[^"]*"|'[^']*')` "" $content -}}
+    {{- $content = replaceRE `\s+style=("[^"]*"|'[^']*')` "" $content -}}
+
+    {{- /* Tidy tags whose attribute stripping left a trailing newline. */ -}}
+    {{- $content = replaceRE `(<[a-zA-Z][^<>]*?)\s+>` `$1>` $content -}}
+
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
