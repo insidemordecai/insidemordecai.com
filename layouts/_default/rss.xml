@@ -29,9 +29,10 @@
     {{- end -}}
     {{ range $pages }}
     {{- /*
-      Feed readers do not load the site's CSS or JavaScript. Blowfish adds
-      scripts, styles, and inline SVG icons to the rendered content; strip
-      them so they cannot leak into the feed.
+      Feed readers do not load the site's CSS or JavaScript. Blowfish emits
+      callouts/accordions using Tailwind classes, inline SVG icons without
+      width/height, and (for accordions) <details>, <style>, and <script>.
+      Rewrite the rendered content to plain, CSS-independent HTML.
     */ -}}
     {{- $content := .Content | string -}}
 
@@ -39,6 +40,61 @@
     {{- $content = replaceRE `(?s)<script\b.*?</script>` "" $content -}}
     {{- $content = replaceRE `(?s)<style\b.*?</style>` "" $content -}}
     {{- $content = replaceRE `(?s)<svg\b.*?</svg>` "" $content -}}
+
+    {{- /* Callout types and their feed emoji/label. */ -}}
+    {{- $callouts := dict
+      "abstract" (dict "emoji" "📄" "label" "Summary")
+      "bug" (dict "emoji" "🐛" "label" "Bug")
+      "caution" (dict "emoji" "🚫" "label" "Caution")
+      "danger" (dict "emoji" "🔥" "label" "Danger")
+      "example" (dict "emoji" "📋" "label" "Example")
+      "failure" (dict "emoji" "❌" "label" "Failure")
+      "important" (dict "emoji" "❗" "label" "Important")
+      "info" (dict "emoji" "ℹ️" "label" "Info")
+      "note" (dict "emoji" "ℹ️" "label" "Note")
+      "question" (dict "emoji" "❓" "label" "Question")
+      "quote" (dict "emoji" "💬" "label" "Quote")
+      "success" (dict "emoji" "✅" "label" "Success")
+      "tip" (dict "emoji" "💡" "label" "Tip")
+      "todo" (dict "emoji" "☑️" "label" "To-do")
+      "warning" (dict "emoji" "⚠️" "label" "Warning")
+    -}}
+
+    {{- /* Non-collapsible and collapsible callouts, by type. */ -}}
+    {{- range $type, $meta := $callouts -}}
+      {{- $pattern := printf `(?s)(<div\s+class="admonition[^"]*"\s+data-type="%s"[^>]*>)\s*<div\s+class="flex items-center[^"]*"[^>]*>.*?<div\s+class="grow"[^>]*>\s*(.*?)\s*</div>\s*</div>` $type -}}
+      {{- $content = replaceRE $pattern (printf `${1}<p><strong>%s $2</strong></p>` $meta.emoji) $content -}}
+      {{- $pattern = printf `(?s)(<details\s+class="admonition[^"]*"\s+data-type="%s"[^>]*>)\s*<summary[^>]*>.*?<div\s+class="grow"[^>]*>\s*(.*?)\s*</div>.*?</summary>` $type -}}
+      {{- $content = replaceRE $pattern (printf `${1}<p><strong>%s $2</strong></p>` $meta.emoji) $content -}}
+      {{- $content = replaceRE (printf `<strong>%s\s*</strong>` $meta.emoji) (printf `<strong>%s %s</strong>` $meta.emoji $meta.label) $content -}}
+    {{- end -}}
+
+    {{- /* Unknown callout types fall back to a generic note. */ -}}
+    {{- $content = replaceRE `(?s)(<div\s+class="admonition[^"]*"[^>]*>)\s*<div\s+class="flex items-center[^"]*"[^>]*>.*?<div\s+class="grow"[^>]*>\s*(.*?)\s*</div>\s*</div>` `${1}<p><strong>ℹ️ $2</strong></p>` $content -}}
+    {{- $content = replaceRE `(?s)(<details\s+class="admonition[^"]*"[^>]*>)\s*<summary[^>]*>.*?<div\s+class="grow"[^>]*>\s*(.*?)\s*</div>.*?</summary>` `${1}<p><strong>ℹ️ $2</strong></p>` $content -}}
+    {{- $content = replaceRE `<strong>ℹ️\s*</strong>` `<strong>ℹ️ Note</strong>` $content -}}
+
+    {{- /* Accordion item summary: keep the title, drop the chevron/details UI. */ -}}
+    {{- $content = replaceRE `(?s)<summary[^>]*>\s*<span\s+class="flex items-center gap-2"[^>]*>.*?<span>\s*(.*?)\s*</span>.*?</summary>` `<p><strong>$1</strong></p>` $content -}}
+
+    {{- /* Any remaining <details> block: keep its summary as a bold title. */ -}}
+    {{- $content = replaceRE `(?s)<summary[^>]*>(.*?)</summary>` `<p><strong>$1</strong></p>` $content -}}
+
+    {{- /* <details> becomes a plain <div>; body is always visible in the feed. */ -}}
+    {{- $content = replaceRE `(<details[^>]*?)\s+open([^>]*)>` `$1$2>` $content -}}
+    {{- $content = replaceRE `(?s)<details` `<div` $content -}}
+    {{- $content = replaceRE `</details>` `</div>` $content -}}
+
+    {{- /* Blowfish {{< alert >}} shortcode wrapper. */ -}}
+    {{- $content = replaceRE `(<div\s+class="flex px-4 py-3 rounded-md shadow[^"]*"[^>]*)>` `${1}><p><strong>📌 Alert</strong></p>` $content -}}
+
+    {{- /* Remove wrappers left empty after icon removal (twice for nesting). */ -}}
+    {{- $content = replaceRE `(?s)<span[^>]*>\s*</span>` "" $content -}}
+    {{- $content = replaceRE `(?s)<div[^>]*>\s*</div>` "" $content -}}
+    {{- $content = replaceRE `(?s)<span[^>]*>\s*</span>` "" $content -}}
+    {{- $content = replaceRE `(?s)<div[^>]*>\s*</div>` "" $content -}}
+    {{- $content = replaceRE `(?s)<button[^>]*>\s*</button>` "" $content -}}
+    {{- $content = replaceRE `(?s)<p>\s*</p>` "" $content -}}
 
     <item>
       <title>{{ .Title }}</title>
