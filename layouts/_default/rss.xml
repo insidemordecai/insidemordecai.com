@@ -80,13 +80,18 @@
     {{- /* Any remaining <details> block: keep its summary as a bold title. */ -}}
     {{- $content = replaceRE `(?s)<summary[^>]*>(.*?)</summary>` `<p><strong>$1</strong></p>` $content -}}
 
+    {{- /* Mark wrappers so we can add self-contained styling at the end. */ -}}
+    {{- $content = replaceRE `(<div\s+class="admonition [^"]*"\s+data-type="([^"]+)"[^>]*)>` `${1} data-rss-callout="$2">` $content -}}
+    {{- $content = replaceRE `(<details\s+class="admonition [^"]*"\s+data-type="([^"]+)"[^>]*)>` `${1} data-rss-callout="$2">` $content -}}
+    {{- $content = replaceRE `(<div\s+id="accordion-[^"]*"[^>]*)>` `${1} data-rss-accordion="1">` $content -}}
+
     {{- /* <details> becomes a plain <div>; body is always visible in the feed. */ -}}
     {{- $content = replaceRE `(<details[^>]*?)\s+open([^>]*)>` `$1$2>` $content -}}
     {{- $content = replaceRE `(?s)<details` `<div` $content -}}
     {{- $content = replaceRE `</details>` `</div>` $content -}}
 
     {{- /* Blowfish {{< alert >}} shortcode wrapper. */ -}}
-    {{- $content = replaceRE `(<div\s+class="flex px-4 py-3 rounded-md shadow[^"]*"[^>]*)>` `${1}><p><strong>📌 Alert</strong></p>` $content -}}
+    {{- $content = replaceRE `(<div\s+class="flex px-4 py-3 rounded-md shadow[^"]*"[^>]*)>` `${1} data-rss-callout="1"><p><strong>📌 Alert</strong></p>` $content -}}
 
     {{- /* Remove wrappers left empty after icon removal (twice for nesting). */ -}}
     {{- $content = replaceRE `(?s)<span[^>]*>\s*</span>` "" $content -}}
@@ -105,9 +110,32 @@
     {{- $content = replaceRE `\s+class=("[^"]*"|'[^']*')` "" $content -}}
     {{- $content = replaceRE `\s+style=("[^"]*"|'[^']*')` "" $content -}}
 
+    {{- /* Visible delimitation that works without an external stylesheet.
+      A left rule (rather than a background) stays readable in dark and light
+      readers alike. Each callout family gets its own accent color. */ -}}
+    {{- $calloutColors := dict
+      "note" "#009bad"
+      "info" "#009bad"
+      "tip" "#2e7d32"
+      "success" "#2e7d32"
+      "warning" "#b26a00"
+      "caution" "#b26a00"
+      "important" "#c62828"
+      "danger" "#c62828"
+      "bug" "#c62828"
+      "failure" "#c62828"
+      "question" "#6a1b9a"
+      "example" "#6a1b9a"
+      "quote" "#6a1b9a"
+    -}}
+    {{- range $type, $color := $calloutColors -}}
+      {{- $content = replaceRE (printf `\s+data-rss-callout="%s"` $type) (printf ` style="border-left:4px solid %s;padding-left:1em;margin:1em 0;"` $color) $content -}}
+    {{- end -}}
+    {{- $content = replaceRE `\s+data-rss-callout="[^"]*"` ` style="border-left:4px solid #009bad;padding-left:1em;margin:1em 0;"` $content -}}
+    {{- $content = replaceRE `\s+data-rss-accordion="1"` ` style="border:1px solid #999;border-radius:4px;padding:0.5em 1em;margin:1em 0;"` $content -}}
+
     {{- /* Tidy tags whose attribute stripping left a trailing newline. */ -}}
     {{- $content = replaceRE `(<[a-zA-Z][^<>]*?)\s+>` `$1>` $content -}}
-
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
